@@ -1,0 +1,162 @@
+html, body {
+  height: auto;
+  min-height: 100vh;
+  overflow: auto;
+}
+
+.header{
+position:relative;
+display:inline-block;
+}
+
+.header img{
+display:block;
+margin:0 auto;
+}
+
+.slogan{
+font-size:60px;
+margin-top:0;
+margin-bottom:10px;
+text-align:center;
+}
+
+.pertama {
+margin:0 3px 3px 10px;
+}
+
+.kedua {
+margin:0 3px 3px 3px;
+}
+
+.ketiga {
+margin:0 3px 3px 3px;
+}
+
+.keempat {
+margin:0 3px 3px 3px;
+}
+
+.kelima {
+margin:0 0px 3px 3px;
+}
+
+.caption1{
+padding-top:0;
+padding-bottom:20px;
+margin-top:0;
+margin-bottom:20px;
+text-align:center;
+font-size:12px;
+font-family: "Times new roman", sans-serif;
+font-style:italic;
+}
+
+.button{
+display: inline-block;
+padding: 25px;
+background: #cd486b;
+color: white;
+text-decoration: none;
+border-radius: 10px;
+text-align:center;
+font-weight: bold;
+font-size:40px;
+width:910px;
+height:100px;
+border-radius:75px;
+opacity:1;
+transition:background-color 0.5s ease-in-out, width 0.5s ease-in-out, height 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+
+.button:hover {
+background:#cd486b;
+opacity:0.5;
+transform: scale (1.1);
+}
+
+.button2{
+display: inline-block;
+margin-top:30px;
+padding: 25px;
+background: #010101;
+color: white;
+text-decoration: none;
+border-radius: 10px;
+text-align:center;
+font-weight: bold;
+font-size:40px;
+width:910px;
+height:100px;
+border-radius:75px;
+opacity:1;
+transition:background-color 0.5s ease-in-out, width 0.5s ease-in-out, height 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+
+.button2:hover {
+background:#010101;
+opacity:0.5;
+transform: scale (1.1);
+}
+
+.button3{
+display: inline-block;
+margin-top:30px;
+padding: 25px;
+background: #c4302b;
+color: white;
+text-decoration: none;
+border-radius: 10px;
+text-align:center;
+font-weight: bold;
+font-size:40px;
+width:910px;
+height:100px;
+border-radius:75px;
+opacity:1;
+transition:background-color 0.5s ease-in-out, width 0.5s ease-in-out, height 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+
+.button3:hover {
+background:#c4302b;
+opacity:0.5;
+transform: scale (1.1);
+}
+
+.button4{
+display: inline-block;
+margin-top:30px;
+margin-bottom:50px;
+padding: 25px;
+background: #25D366;
+color: white;
+text-decoration: none;
+border-radius: 10px;
+text-align:center;
+font-weight: bold;
+font-size:40px;
+width:910px;
+height:100px;
+border-radius:75px;
+opacity:1;
+transition:background-color 0.5s ease-in-out, width 0.5s ease-in-out, height 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+
+.button4:hover {
+background:#25D366;
+opacity:0.5;
+transform: scale (1.1);
+}
+
+.slogan1{
+font-size:24px;
+margin-top:0;
+margin-bottom:0;
+text-align:center;
+}
+
+.footer{
+text-align:center;
+font-size:24px;
+font-family: "Arial", serif;
+}
